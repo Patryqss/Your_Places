@@ -1,0 +1,11 @@
+city;state;zip;address;category
+wroclaw;dolnoslaskie;50-515;Legnicka;cat one
+Lublin;lubelskie;20-214;al. Solidarnosci;cat two
+Warszawa;;;;cat one
+Gdynia;;;;cat three
+Radom;;;sienna;cat two
+Krakow;malopolskie;;dworska;cat one
+Gdansk;;;;cat three
+Szczecin;;;reduty ordona;cat three
+Prague;;;;cat four
+Kielce ;;;;cat one
