@@ -1,0 +1,42 @@
+@import './buttonsStyle.css';
+
+.App {
+  text-align: center;
+  text-align: -webkit-center;
+  text-align: -moz-center;
+}
+
+.logo {
+  font-family: cursive;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: xx-large;
+  color: #47caec;
+  text-shadow: 3px 3px #03060b;
+}
+
+.importDiv {
+  color: #47caec;
+  text-shadow: 3px 3px #03060b;
+}
+
+.messageDiv {
+  color: #47caec;
+  text-shadow: 3px 3px #03060b;
+  font-weight: 700;
+  font-size: medium;
+}
+
+@media all and (min-width: 600px) {
+  .instructionDiv {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+  }
+}
+
+@media all and (max-width: 650px) {
+  .instructionImg {
+    width: 90vw;
+  }
+}
